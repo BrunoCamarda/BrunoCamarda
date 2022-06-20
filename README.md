@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Im Bruno and I'm a DevRel, from Take Blip</h2>
+<h2 align="left">Hi 👋! Im Bruno and I'm a DevRel @ Take Blip</h2>
 
 ###
 
